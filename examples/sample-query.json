@@ -1,0 +1,14 @@
+{
+  "question": "最近七天各类监测事件有多少？",
+  "trustedContext": {
+    "projectId": 101,
+    "tenantId": 1
+  },
+  "expectedTool": "aggregate_events",
+  "expectedBehavior": [
+    "使用可信上下文中的 projectId",
+    "要求完整起止日期",
+    "只返回事件名称、类型和数量",
+    "接口失败时不得回答为零"
+  ]
+}
