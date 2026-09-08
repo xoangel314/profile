@@ -55,6 +55,3 @@ examples/                脱敏请求与响应样例
 
 Java 17、Spring Boot、Spring Cloud、Nacos、OpenFeign、MyBatis-Plus、SSE、LLM Tool Calling、JUnit 5。
 
-## 隐私说明
-
-所有名称、地址、ID和数据均为示例。提交私人仓库前仍应执行一次敏感信息扫描，并确认符合原公司的知识产权和保密要求。
